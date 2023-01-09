@@ -1,6 +1,6 @@
 # numguess
 
-프로젝트 설명 한줄 요약
+사용자가 랜덤 숫자를 만드는 게임입니다.
 
 # Installation
 
