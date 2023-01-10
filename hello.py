@@ -11,6 +11,7 @@ animals = ['cat', 'dog', 'hamster']
 menus = [
     'lemontea', 
     'cookie',
-    'cake'
+    'cake',
+    'scone',
 ]
 
