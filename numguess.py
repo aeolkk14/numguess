@@ -21,13 +21,10 @@ def choice():
 
 
 def correct():
+    for i in range(3):
       print('*********************')
       sleep(1)
-      print('*********************')
-      sleep(1)
-      print('*********************')
-      sleep(1)
-      return print("Correct! You got the right answer!")
+    return print("Correct! You got the right answer!")
 
 def wrong():
   if guess > answer:
@@ -43,4 +40,4 @@ for i in range(3):
     break
   else:
     wrong()
-    guess = choice()    
+    guess = choice()
